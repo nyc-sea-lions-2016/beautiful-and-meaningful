@@ -20,4 +20,7 @@ To-Dos:
   Images: Getty Images/Flickr/500px
   Quotes: Twitter/Famous Quotes API
 -	What categories do we want for images and quotes???
+-	
+
+http://www.theodinproject.com/ruby-on-rails/working-with-external-apis
 
