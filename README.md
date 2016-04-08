@@ -24,3 +24,13 @@ To-Dos:
 
 http://www.theodinproject.com/ruby-on-rails/working-with-external-apis
 http://developers.gettyimages.com/api/docs/v3/quickstart.html
+
+
+-----categories
+-nature
+-inspirational
+-abstract
+-hipster
+-sports
+-celebrity
+-trump
